@@ -1,0 +1,24 @@
+<svg width="82" height="58" viewBox="0 0 82 58" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="2" y="2" width="78" height="48" rx="2" fill="#FCF0FF"/>
+<rect width="82" height="52" rx="2" fill="#F2CCFF"/>
+<rect x="3" y="3" width="76" height="46" rx="1" fill="white"/>
+<rect x="11" y="10" width="26" height="2" rx="1" fill="#FCF0FF"/>
+<rect x="45" y="10" width="26" height="2" rx="1" fill="#FCF0FF"/>
+<rect x="11" y="16" width="26" height="2" rx="1" fill="#FCF0FF"/>
+<rect x="45" y="16" width="26" height="2" rx="1" fill="#FCF0FF"/>
+<rect x="11" y="22" width="16" height="2" rx="1" fill="#FCF0FF"/>
+<rect x="45" y="22" width="26" height="2" rx="1" fill="#FCF0FF"/>
+<rect x="11" y="28" width="26" height="2" rx="1" fill="#FCF0FF"/>
+<rect x="45" y="28" width="16" height="2" rx="1" fill="#FCF0FF"/>
+<rect x="11" y="34" width="26" height="2" rx="1" fill="#FCF0FF"/>
+<rect x="45" y="34" width="26" height="2" rx="1" fill="#FCF0FF"/>
+<rect x="11" y="40" width="23" height="2" rx="1" fill="#FCF0FF"/>
+<rect x="45" y="40" width="21" height="2" rx="1" fill="#FCF0FF"/>
+<path d="M45 58V49H55V58L50 56L45 58Z" fill="url(#paint0_linear)"/>
+<defs>
+<linearGradient id="paint0_linear" x1="49.6617" y1="43.825" x2="43.3421" y2="58.0318" gradientUnits="userSpaceOnUse">
+<stop stop-color="#33AAFF"/>
+<stop offset="1" stop-color="#CC30CF"/>
+</linearGradient>
+</defs>
+</svg>

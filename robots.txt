@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /author/ 
+Disallow: */portfolio/
+Disallow: */20
+Disallow: *?*
+Disallow: /wp-includes/
+Disallow: /questions/  
+
+User-agent: Yandex
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /author/ 
+Disallow: */portfolio/
+Disallow: */20
+Disallow: *?*
+Disallow: /wp-includes/ 
+Disallow: /questions/ 
+
+Host: https://ux-school.by

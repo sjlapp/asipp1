@@ -1,0 +1,24 @@
+<svg width="160" height="124" viewBox="0 0 160 124" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 10H160V121C160 122.657 158.657 124 157 124H3C1.34315 124 0 122.657 0 121V10Z" fill="white"/>
+<path d="M0 3C0 1.34315 1.34315 0 3 0H157C158.657 0 160 1.34315 160 3V10H0V3Z" fill="#DF99FF"/>
+<circle cx="24" cy="67" r="9" fill="#FCF0FF"/>
+<circle cx="52" cy="39" r="9" fill="#FCF0FF"/>
+<circle cx="24" cy="95" r="9" fill="#FCF0FF"/>
+<circle cx="52" cy="67" r="9" fill="#FCF0FF"/>
+<circle cx="80" cy="39" r="9" fill="#FCF0FF"/>
+<circle cx="52" cy="95" r="9" fill="#FCF0FF"/>
+<circle cx="80" cy="67" r="9" fill="#FCF0FF"/>
+<circle cx="108" cy="39" r="9" fill="#FCF0FF"/>
+<circle cx="80" cy="95" r="9" fill="#FCF0FF"/>
+<circle cx="108" cy="67" r="9" fill="#FCF0FF"/>
+<circle cx="136" cy="39" r="9" fill="#FCF0FF"/>
+<circle cx="24" cy="39" r="9" fill="url(#paint0_linear)"/>
+<circle cx="136" cy="67" r="9" fill="#FCF0FF"/>
+<circle cx="108" cy="95" r="9" fill="#FCF0FF"/>
+<defs>
+<linearGradient id="paint0_linear" x1="23.391" y1="19.65" x2="9.87127" y2="47.0036" gradientUnits="userSpaceOnUse">
+<stop stop-color="#33AAFF"/>
+<stop offset="1" stop-color="#CC30CF"/>
+</linearGradient>
+</defs>
+</svg>
